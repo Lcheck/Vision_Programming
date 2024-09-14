@@ -1,0 +1,11 @@
+﻿  BmpShow.cpp
+  BmpShowView.cpp
+C:\Users\usingtech\source\repos\BmpShow\BmpShow\BmpShowView.cpp(151,69): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+  (소스 파일 '/BmpShowView.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\usingtech\source\repos\BmpShow\BmpShow\BmpShowView.cpp(177,74): warning C4334: '<<': 32비트 시프트의 결과가 암시적으로 64비트로 변환됩니다. 64비트 시프트를 사용하시겠습니까?
+  (소스 파일 '/BmpShowView.cpp'을(를) 컴파일하는 중)
+  
+  ChildFrm.cpp
+  코드를 생성하고 있습니다...
+  BmpShow.vcxproj -> C:\Users\usingtech\source\repos\BmpShow\x64\Debug\BmpShow.exe
